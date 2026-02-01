@@ -22,6 +22,8 @@ The course details page presents learning material in a structured format and in
 A dedicated progress tracking page visually represents course completion using an animated progress bar. Progress is stored and retrieved using browser local storage, allowing users to view their completion status even after navigating between pages. This approach demonstrates basic state persistence without requiring backend integration.
 
 The user interface is styled with modern CSS techniques, including responsive layouts, shadows, hover effects, and smooth transitions, resulting in a clean and professional appearance. The multi-page navigation ensures a realistic platform structure similar to commercial e-learning systems.
+OUTPUT
+https://github.com/parasgaikwad07/E-LEARNING-PLATFORM-UI/issues/1#issue-3881610304
 
 Overall, this project showcases the ability to design user-centric front-end interfaces, implement basic interactivity, and structure a multi-page application. The E-Learning Platform UI effectively demonstrates frontend development skills and an understanding of educational platform design concepts.
 
